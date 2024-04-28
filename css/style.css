@@ -67,7 +67,6 @@ body {
 }
 ol {
     width: 300px;
-    border: 1px solid red;
     display: flex;
     margin: 0 auto;
     
